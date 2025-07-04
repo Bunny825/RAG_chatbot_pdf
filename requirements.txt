@@ -10,3 +10,4 @@ python-dotenv
 ipykernel
 chromadb==0.4.22
 protobuf==3.20.3
+numpy<2.0.0
