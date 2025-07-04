@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-chroma
+ipykernel
+python-dotenv
+streamlit
+pypdf
